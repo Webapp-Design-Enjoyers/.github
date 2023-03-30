@@ -1,6 +1,6 @@
 # Webapp Design Group
 
-Hello! You've landed upon the <still-trying-to-find-an-adequate-name>
+Hello! You've landed upon the `still-trying-to-find-an-adequate-name>`
 
 ## Developing
 
@@ -21,4 +21,4 @@ A space for programming challenges and solutions.
 
 ## Reason
 
-It's a space for the Progamming People
+It's a space for the Progamming People (i can't do names)
